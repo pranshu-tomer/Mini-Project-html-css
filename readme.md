@@ -1,1 +1,2 @@
-# Project On JavaScript
+# Mini-Project
+- based on HTML and CSS
